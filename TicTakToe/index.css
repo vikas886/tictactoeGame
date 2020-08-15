@@ -1,0 +1,36 @@
+
+.row td{
+    
+    height: 125px;
+    width: 125px;
+    background-color: antiquewhite;
+    border: 2px solid brown;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 35pt;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btnreset button{
+    margin-top: 25px;
+    background-color: bisque;
+    border-radius:10px ;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+}
+#btnreset button:hover{
+    background-color:rgb(68, 32, 32);
+    color: bisque;
+}
+.row td:hover{
+    background-color:rgb(119, 98, 98);
+    color: bisque;
+}
+.heading{
+    
+    background: rgb(143, 94, 94);
+    color: bisque;
+}
